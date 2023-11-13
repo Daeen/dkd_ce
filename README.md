@@ -37,7 +37,7 @@ Download the `cifar_teachers.tar` at <https://github.com/megvii-research/mdistil
 ## Results
 
 Execution results can be found in ./output
-Project Poster: [LINK](https://drive.google.com/file/d/1SYEYSd0BlLx-URfty_nH8zEoztEKVMe1/view>)
+Project Poster: [LINK](https://drive.google.com/file/d/1SYEYSd0BlLx-URfty_nH8zEoztEKVMe1/view)
 
 # License
 
